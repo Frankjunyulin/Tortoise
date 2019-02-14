@@ -1,7 +1,9 @@
 # Tortoise
 
 ## Introduction
-A Haskell drawing library. Welcome to use it to draw your own picture! Welcome to commit! Have fun!
+A Haskell drawing library - the Tortoise Graphics Language, embedded in Haskell. </br>
+Welcome to use it to draw your own picture! </br>
+Welcome to commit! Have fun!
 
 ## Construction
 Main.hs - contains a main function to save an example image to ‘tortoise.png’. It also
